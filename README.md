@@ -131,6 +131,6 @@ training_args = TrainingArguments(
 
 Tras el entrenamiento, el modelo se evaluó en un conjunto de prueba con los siguientes resultados:
 
-- RMSE de prueba: [0.46]
-- MAE de prueba: [0.37]
-- Puntuación R²: [0.48]
+- RMSE de prueba: 0.46
+- MAE de prueba: 0.37
+- Puntuación R²: 0.48
